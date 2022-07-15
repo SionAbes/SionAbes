@@ -1,14 +1,7 @@
 
 <!-- OpeningGif -->
-<div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/></div>
+<div align="center" ><img order-radius="100px" src="https://www.cs.cmu.edu/~cangiuli/img/reginald.gif"/></div>
 <br>
-<p align="center">
- 
- <img src="https://badges.pufler.dev/visits/SionAbes/SionAbes"/> 
- <!-- <img src="https://badges.pufler.dev/years/SionAbes"/> -->
- <img src="https://badges.pufler.dev/repos/SionAbes"/>
-
-</p>
 
 <p align="center">
 I'm Siôn, which is Welsh for Sean/Johannes/Ivan and I work as a Full-Stack Engineer
@@ -35,7 +28,7 @@ I'm Siôn, which is Welsh for Sean/Johannes/Ivan and I work as a Full-Stack Engi
  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
 </p>
 
-<h2 align="center">Hire Me @</h2>
+<h2 align="center">Connect With Me @</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/sionabraham/">
 <img src="https://img.shields.io/badge/-sionabraham-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ritik-rawal-698a18142/"/>
@@ -48,5 +41,3 @@ I'm Siôn, which is Welsh for Sean/Johannes/Ivan and I work as a Full-Stack Engi
  <img src="https://img.shields.io/badge/Full%20Stack%20Portfolio-000000?style=flat-square&logo=github&logoColor=F0F0F"/>
 </a>
 </p>
-
-<p align="center">Drop me a star ⭐ and fork 🍴 if you like this profile!</p>
